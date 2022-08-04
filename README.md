@@ -2,7 +2,7 @@
 ---
  
 
-## I'm currently working full time on a grant from the Ethereum Foundation:
+## I'm currently working full time on a grant from the Ethereum Foundation
 ### Overview
 
 To collect data on the performance and security characteristics of ZK circuits being verified on the Ethereum Blockchain and expose this data to users in a digestible way.
