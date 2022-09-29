@@ -20,4 +20,4 @@ How that looks practically:
 ## :email: How to reach me:
 * Outsideranalytics@gmail.com
 * Discord: "Outsider Analytics"#9451
-* Twitter: @OutsidrAnalytcs 
+
