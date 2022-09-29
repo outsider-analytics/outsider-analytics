@@ -1,4 +1,4 @@
-# :wave: Hello! I am a data scientist and financial analyst operating in the web3 space.
+# :wave: Hello! I am a data scientist and financial analyst operating in the Ethereum space.
 ---
  
 
