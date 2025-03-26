@@ -9,12 +9,11 @@ I'm a Full Stack Developer with a passion for solving real-world problems throug
 ## 🚀 Skills and Technologies
 - **Languages**: JavaScript, TypeScript, Python, Solidity
 - **Frameworks**: Next.js, React, Flask
-- **Data**: BigQuery, DBT, SQL
+- **Data**: Snowflake, Dagster, BigQuery, DBT, SQL
 - **Tools**: Git, Docker, AWS, Supabase
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/brian-wilkes-821876329)
-- [Email](mailto:brian@bwadvising.com)
+- [Email](mailto:brian@outsideranalytics.xyz)
 
 ## 🌱 Fun Facts
 - I'm a CFA charterholder who transitioned into tech after discovering a passion for data science and coding.
